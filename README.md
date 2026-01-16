@@ -4,7 +4,7 @@ BCA 3rd Year
 
 📧 Email Me 👉 ✉️ ayushsingh755999@gmail.com
 
-For collaboration, Sql & Powerbi projects, or learning opportunities 😊
+For collaboration, Sql & Power bi projects, or learning opportunities 😊
 
 🔭 I’m currently working on:
 Data Analysis projects using Sql and Powerbi with real-world datasets
