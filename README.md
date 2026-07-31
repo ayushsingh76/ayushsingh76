@@ -78,7 +78,7 @@ I enjoy turning raw data into meaningful insights 📊✨
 
 
 # 💫 About Me:
-I am Ayush Kumar, a 3rd-year BCA student with a strong interest in Data Analytics. During my academic journey, I have strengthened my expertise in data analysis, data visualization, and analytical problem-solving by working on real-world datasets and academic projects.<br><br>I enjoy exploring data to uncover insights, identify patterns, and present findings through clear and meaningful visualizations. I have hands-on experience with Python, SQL, Excel, and data visualization libraries such as Matplotlib and Seaborn, and I am continuously improving my skills in analytics and AI-driven approaches.<br><br>I am motivated to build a career as a Data Analyst, where I can apply my analytical skills to support data-driven decision-making and solve real business problems.
+I am Ayush Kumar, BCA graduate  with a strong interest in Data Analytics. During my academic journey, I have strengthened my expertise in data analysis, data visualization, and analytical problem-solving by working on real-world datasets and academic projects.<br><br>I enjoy exploring data to uncover insights, identify patterns, and present findings through clear and meaningful visualizations. I have hands-on experience with Python, SQL, Excel, and data visualization libraries such as Matplotlib and Seaborn, and I am continuously improving my skills in analytics and AI-driven approaches.<br><br>I am motivated to build a career as a Data Analyst, where I can apply my analytical skills to support data-driven decision-making and solve real business problems.
 
 
 ## 🌐 Socials:
