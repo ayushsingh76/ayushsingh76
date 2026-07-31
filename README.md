@@ -1,25 +1,66 @@
-💫 Hi 👋, I'm Ayush Kumar
-A passionate Data Analyst || Python Learner || AWS Enthusiast
-BCA 3rd Year 
+# 💫 Hi 👋, I'm Ayush Kumar
 
-📧 Email Me 👉 ✉️ ayushsingh755999@gmail.com
+### Aspiring Data Analyst | SQL | Power BI | Python Learner
 
-For collaboration, Sql & Power bi projects, or learning opportunities 😊
+I am a BCA graduate and an aspiring Data Analyst passionate about transforming raw data into meaningful insights. I enjoy working with real-world datasets, creating interactive dashboards, analyzing business performance, and solving data-driven problems.
 
-🔭 I’m currently working on:
-Data Analysis projects using Sql and Powerbi with real-world datasets
+I am continuously improving my skills in **SQL, Power BI, Python, and Excel** while building practical Data Analytics projects.
 
-🌱 I’m currently learning:
-Python  & AWS (Basic)
+📧 **Email:** [ayushsingh755999@gmail.com](mailto:ayushsingh755999@gmail.com)
 
-👯 I’m looking to collaborate on:
-Sql-based projects and Power bi related work
+🤝 **Open to collaboration, Data Analytics projects, learning opportunities, and entry-level Data Analyst opportunities.**
 
-🤔 I’m looking for help with:
-Building scalable Python applications on AWS
+---
 
-💬 Ask me about:
- Data Analysis, Data Visualization, SQL, AWS basics
+## 🔭 Currently Working On
+
+* Data Analysis projects using real-world datasets
+* Interactive dashboards using Power BI
+* SQL-based data analysis and business insights
+* Data cleaning, transformation, and visualization
+
+## 🌱 Currently Learning
+
+* Python for Data Analytics
+* Advanced SQL concepts
+* Data Analytics and Business Intelligence
+
+## 👯 Looking to Collaborate On
+
+* SQL-based Data Analytics projects
+* Power BI dashboard projects
+* Data visualization and business analysis projects
+* Real-world data-driven projects
+
+## 💬 Ask Me About
+
+* SQL
+* Power BI
+* Data Analysis
+* Data Visualization
+* Excel
+* Python Basics
+
+---
+
+## 🛠️ Skills & Tools
+
+**Data Analysis:**
+SQL | Excel | Data Cleaning | Data Transformation | Business Analysis
+
+**Data Visualization:**
+Power BI | Interactive Dashboards | DAX | Data Storytelling
+
+**Programming:**
+Python (Learning)
+
+---
+
+## 📊 Career Goal
+
+To start my career as a **Data Analyst**, work on real-world business problems, and help organizations make better decisions through data-driven insights.
+
+⭐ **Feel free to explore my repositories and connect with me for collaboration or learning opportunities!**
 
 📫 How to reach me:
 ✉️ ayushsingh755999@gmail.com
