@@ -83,16 +83,6 @@ I work on practical Data Analytics projects to strengthen my technical and analy
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushsingh76&show_icons=true&theme=default&hide_border=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ayushsingh76&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh76&layout=compact&theme=default&hide_border=true)
-
----
-
 ## Connect With Me
 
 **LinkedIn:** https://www.linkedin.com/in/ayush-kumar-3b8968292/
