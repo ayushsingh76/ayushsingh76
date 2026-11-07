@@ -1,109 +1,108 @@
-# 💫 Hi 👋, I'm Ayush Kumar
+# Ayush Kumar
 
-### Aspiring Data Analyst | SQL | Power BI | Python Learner
+### Aspiring Data Analyst | SQL | Power BI | Python | Excel
 
-I am a BCA graduate and an aspiring Data Analyst passionate about transforming raw data into meaningful insights. I enjoy working with real-world datasets, creating interactive dashboards, analyzing business performance, and solving data-driven problems.
+BCA Graduate passionate about Data Analytics, business intelligence, and data-driven decision-making.
 
-I am continuously improving my skills in **SQL, Power BI, Python, and Excel** while building practical Data Analytics projects.
+I enjoy working with real-world datasets, identifying meaningful patterns, solving analytical problems, and transforming raw data into actionable business insights.
 
-📧 **Email:** [ayushsingh755999@gmail.com](mailto:ayushsingh755999@gmail.com)
-
-🤝 **Open to collaboration, Data Analytics projects, learning opportunities, and entry-level Data Analyst opportunities.**
+Currently strengthening my skills in SQL, Python, Power BI, and Excel through practical projects and continuous learning.
 
 ---
 
-## 🔭 Currently Working On
+## About Me
 
-* Data Analysis projects using real-world datasets
-* Interactive dashboards using Power BI
-* SQL-based data analysis and business insights
-* Data cleaning, transformation, and visualization
-
-## 🌱 Currently Learning
-
-* Python for Data Analytics
-* Advanced SQL concepts
-* Data Analytics and Business Intelligence
-
-## 👯 Looking to Collaborate On
-
-* SQL-based Data Analytics projects
-* Power BI dashboard projects
-* Data visualization and business analysis projects
-* Real-world data-driven projects
-
-## 💬 Ask Me About
-
-* SQL
-* Power BI
-* Data Analysis
-* Data Visualization
-* Excel
-* Python Basics
+- BCA Graduate interested in Data Analytics and Business Intelligence.
+- Learning and practising SQL, Python, Power BI, and Excel.
+- Interested in data cleaning, exploratory data analysis, and dashboard development.
+- Building practical projects using real-world datasets.
+- Focused on developing analytical and problem-solving skills.
+- Open to entry-level Data Analyst opportunities and collaborations.
 
 ---
 
-## 🛠️ Skills & Tools
+## Technical Skills
 
-**Data Analysis:**
-SQL | Excel | Data Cleaning | Data Transformation | Business Analysis
+**Programming & Query Languages**
+- Python
+- SQL
+- MySQL
 
-**Data Visualization:**
-Power BI | Interactive Dashboards | DAX | Data Storytelling
+**Data Analytics**
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis
+- Data Processing
+- Business Analysis
 
-**Programming:**
-Python (Learning)
+**Data Visualization**
+- Power BI
+- DAX
+- Matplotlib
+- Seaborn
+- Excel Dashboards
+
+**Tools**
+- Microsoft Excel
+- Power BI Desktop
+- MySQL Workbench
+- Jupyter Notebook
+- VS Code
+- Git & GitHub
+
+---
+
+## Projects
+
+I work on practical Data Analytics projects to strengthen my technical and analytical abilities.
+
+**1. Coffee Sales & Customer Analysis**
+- Analysed sales and customer purchasing patterns.
+- Created interactive Power BI dashboards.
+- Identified sales trends and business insights.
+
+**2. Marketing Campaign Performance Analysis**
+- Analysed marketing campaign performance.
+- Evaluated ROI, customer acquisition cost, and conversion rates.
+- Developed interactive Power BI visualizations.
+
+**3. Banking Fraud & Risk Analytics**
+- Working on transaction analysis and suspicious activity patterns.
+- Exploring transaction behaviour, login attempts, and risk indicators.
 
 ---
 
-## 📊 Career Goal
+## Currently Learning
 
-To start my career as a **Data Analyst**, work on real-world business problems, and help organizations make better decisions through data-driven insights.
-
-⭐ **Feel free to explore my repositories and connect with me for collaboration or learning opportunities!**
-
-📫 How to reach me:
-✉️ ayushsingh755999@gmail.com
-
-😄 Pronouns:
-He / Him
-
-⚡ Fun fact:
-I enjoy turning raw data into meaningful insights 📊✨
-
-
-
-
-
-
-
-# 💫 About Me:
-I am Ayush Kumar, BCA graduate  with a strong interest in Data Analytics. During my academic journey, I have strengthened my expertise in data analysis, data visualization, and analytical problem-solving by working on real-world datasets and academic projects.<br><br>I enjoy exploring data to uncover insights, identify patterns, and present findings through clear and meaningful visualizations. I have hands-on experience with Python, SQL, Excel, and data visualization libraries such as Matplotlib and Seaborn, and I am continuously improving my skills in analytics and AI-driven approaches.<br><br>I am motivated to build a career as a Data Analyst, where I can apply my analytical skills to support data-driven decision-making and solve real business problems.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-kumar-3b8968292/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushsingh755999@gmail.com) 
-
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushsingh76&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayushsingh76&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh76&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayushsingh76&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Advanced SQL and Window Functions
+- Python for Data Analytics
+- Pandas and NumPy
+- Power BI and DAX
+- Business Intelligence
+- Data Analysis and Visualization
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayushsingh76&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushsingh76&show_icons=true&theme=default&hide_border=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ayushsingh76&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsingh76&layout=compact&theme=default&hide_border=true)
+
+---
+
+## Connect With Me
+
+**LinkedIn:** https://www.linkedin.com/in/ayush-kumar-3b8968292/
+
+**Email:** ayushsingh755999@gmail.com
+
+---
+
+## Career Objective
+
+My goal is to start my professional career as a Data Analyst, contribute to real-world business problems, and help organizations make better decisions through data.
+
+I believe in continuous learning, practical experience, and improving my analytical skills through real-world projects.
